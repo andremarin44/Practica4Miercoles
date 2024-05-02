@@ -4,8 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+        CuentaCorriente.cpp \
         Producto.cpp \
         main.cpp
 
 HEADERS += \
+    CuentaCorriente.h \
     Producto.h
